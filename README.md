@@ -1,6 +1,8 @@
 <h2 align="left">About Me:</h2>
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHaDfXLJhblGg/profile-displaybackgroundimage-shrink_350_1400/B56ZrfRADYLkAc-/0/1764682368057?e=1772064000&v=beta&t=89wqGR-zvyGQQByTX4Wj7LZUOGXRUcJnDpwCeqmZ068">
 
+---
+
 <p style="text-align: justify;">I am a Software Engineer with a strong interest in Artificial Intelligence and real-world product development. With hands-on experience across Swift, Python, C++, and IoT-based systems, I’m passionate about building innovative, data-driven solutions that create measurable impact. I am currently Apple Developer Certified (Cohort 2025) and was selected as a Google Student Ambassador 2025. I also became a finalist in the Autonomous Surface Vessel category at Kontes Kapal Indonesia 2024 (PPNS Surabaya), where my team developed an autonomous boat equipped with GPS navigation, sensor-based vision, and control systems.
 I enjoy working in fast-paced environments, particularly within the AI research and startup ecosystem, where continuous innovation, collaboration, and problem-solving are essential.</p>
 
