@@ -55,8 +55,8 @@ I enjoy working in fast-paced environments, particularly within the AI research 
 ---
 
 <h3 align="left">My Statictics:</h3>
-<p align="center">
+<div align="center" style="width:100%;display:flex;justify-content:space-between;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mchandrar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mchandrar&layout=compact&langs_count=8&theme=algolia"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mchandrar" alt="waka"/> -->
-</p>
+</div>
