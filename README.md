@@ -1,5 +1,4 @@
 <h2 align="left">About Me:</h2>
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHaDfXLJhblGg/profile-displaybackgroundimage-shrink_350_1400/B56ZrfRADYLkAc-/0/1764682368057?e=1772064000&v=beta&t=89wqGR-zvyGQQByTX4Wj7LZUOGXRUcJnDpwCeqmZ068">
 
 ---
 
