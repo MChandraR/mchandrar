@@ -2,8 +2,7 @@
 
 ---
 
-<p style="text-align: justify;">I am a Software Engineer with a strong interest in Artificial Intelligence and real-world product development. With hands-on experience across Swift, Python, C++, and IoT-based systems, I’m passionate about building innovative, data-driven solutions that create measurable impact. I am currently Apple Developer Certified (Cohort 2025) and was selected as a Google Student Ambassador 2025. I also became a finalist in the Autonomous Surface Vessel category at Kontes Kapal Indonesia 2024 (PPNS Surabaya), where my team developed an autonomous boat equipped with GPS navigation, sensor-based vision, and control systems.
-I enjoy working in fast-paced environments, particularly within the AI research and startup ecosystem, where continuous innovation, collaboration, and problem-solving are essential.</p>
+<p style="text-align: justify;">I am a Software and Machine Learning Engineer currently studying Informatics Engineering at Universitas Maritim Raja Ali Haji. Active as a Google Student Ambassador 2025 and an Apple Developer Academy Graduate (Cohort 2025), I love developing real-world, intelligent systems from autonomous boat controllers to server-side AI applications.</p>
 
 <h3 align="left">Highlight:</h3>
 ▶︎ 🤖 Software & Machine Learning Engineer     <br>
